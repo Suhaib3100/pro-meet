@@ -27,7 +27,7 @@ export const sidebarLinks = [
   },
   {
     imgURL: '/icons/king.svg',
-    route: '/',
+    route: 'https://me.protool.cloud',
     label: 'Powered by Suhaib King',
   },
 ];
